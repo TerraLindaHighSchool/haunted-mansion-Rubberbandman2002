@@ -7,7 +7,7 @@ public class Outliner : MonoBehaviour
     public Color meshColor = new Color(1f, 1f, 1f, 0.5f);
     public Color outlineColor = new Color(1f, 1f, 0f, 1f);
 
-    // Use this for initialization
+    // Use this for initialization of gods
     public void Start()
     {
        // Set the transparent material to this object
